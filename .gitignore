@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# IDE
+.vscode/
+.github/modernize/
+
+# Build
+*.class
+target/
